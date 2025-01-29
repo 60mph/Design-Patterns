@@ -1,0 +1,15 @@
+C:\Users\vlads\source\repos\SampleCommand\SampleCommand\bin\Debug\net7.0\SampleCommand.exe
+C:\Users\vlads\source\repos\SampleCommand\SampleCommand\bin\Debug\net7.0\SampleCommand.deps.json
+C:\Users\vlads\source\repos\SampleCommand\SampleCommand\bin\Debug\net7.0\SampleCommand.runtimeconfig.json
+C:\Users\vlads\source\repos\SampleCommand\SampleCommand\bin\Debug\net7.0\SampleCommand.dll
+C:\Users\vlads\source\repos\SampleCommand\SampleCommand\bin\Debug\net7.0\SampleCommand.pdb
+C:\Users\vlads\source\repos\SampleCommand\SampleCommand\obj\Debug\net7.0\SampleCommand.csproj.AssemblyReference.cache
+C:\Users\vlads\source\repos\SampleCommand\SampleCommand\obj\Debug\net7.0\SampleCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlads\source\repos\SampleCommand\SampleCommand\obj\Debug\net7.0\SampleCommand.AssemblyInfoInputs.cache
+C:\Users\vlads\source\repos\SampleCommand\SampleCommand\obj\Debug\net7.0\SampleCommand.AssemblyInfo.cs
+C:\Users\vlads\source\repos\SampleCommand\SampleCommand\obj\Debug\net7.0\SampleCommand.csproj.CoreCompileInputs.cache
+C:\Users\vlads\source\repos\SampleCommand\SampleCommand\obj\Debug\net7.0\SampleCommand.dll
+C:\Users\vlads\source\repos\SampleCommand\SampleCommand\obj\Debug\net7.0\refint\SampleCommand.dll
+C:\Users\vlads\source\repos\SampleCommand\SampleCommand\obj\Debug\net7.0\SampleCommand.pdb
+C:\Users\vlads\source\repos\SampleCommand\SampleCommand\obj\Debug\net7.0\SampleCommand.genruntimeconfig.cache
+C:\Users\vlads\source\repos\SampleCommand\SampleCommand\obj\Debug\net7.0\ref\SampleCommand.dll
